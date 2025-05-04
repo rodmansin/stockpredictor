@@ -1,1 +1,1 @@
-# stockspredictor
+# Mag 7 Stocks Predictor 
