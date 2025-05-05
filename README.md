@@ -8,6 +8,7 @@ A stock prediction tool that uses Yahoo Finance for stock data and Facebook Prop
 - Historical price chart with zoom functionality 
 - Stock trend forecasting for the next 1-5 years using Facebook Prophet
 
+### Example
 ![Example 1](example1.png)
 ![Example 2](example2.png)
 ![Example 3](example3.png)
@@ -17,7 +18,7 @@ A stock prediction tool that uses Yahoo Finance for stock data and Facebook Prop
 ### Clone the Repository
 First, clone the project to your local computer:
 ```sh
-git clone https://github.com/YOUR_USERNAME/stockpredictor.git
+git clone https://github.com/rodmansin/stockpredictor.git
 cd stockpredictor
 ```
 
