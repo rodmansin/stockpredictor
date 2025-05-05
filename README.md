@@ -9,9 +9,9 @@ A stock prediction tool that uses Yahoo Finance for stock data and Facebook Prop
 - Stock trend forecasting for the next 1-5 years using Facebook Prophet
 
 ### Example
-![Example 1](example1.png)
-![Example 2](example2.png)
-![Example 3](example3.png)
+<img src="example1.png" width="450">
+<img src="example2.png" width="450">
+<img src="example3.png" width="450">
 
 ## Installation Guide
 
